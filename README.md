@@ -4,7 +4,7 @@ Unveiling the ability to comprehend sentiments embedded within text data.
 Dataset Used: MELD-A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation (https://github.com/declare-lab/MELD)
 
 About the Dataset: 
-- Transcripts from the popular TV sitcom Friends with over 1 million labeled instances of dialogue. 
+- Transcripts from the popular TV sitcom Friends with over 1 million labeled instances of dialogue (we used only a subset of this).
 - Labeled with emotions like neutral, joy, surprise, anger, fear, sadness and disgust.
 
 Static Models with Embeddings:
