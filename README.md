@@ -1,5 +1,5 @@
 # Emotion_Recognition
-Unveiling the ability to comprehend sentiments embedded within text data.
+Unveiling the ability to comprehend sentiments embedded within conversational data.
 
 Dataset Used: MELD-A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation (https://github.com/declare-lab/MELD)
 
