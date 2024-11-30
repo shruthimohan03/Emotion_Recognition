@@ -1,3 +1,4 @@
+[NLP-Emotion-Recognition.pdf](https://github.com/user-attachments/files/17964817/NLP-Emotion-Recognition.pdf)
 # Emotion_Recognition
 Unveiling the ability to comprehend sentiments embedded within conversational data.
 
